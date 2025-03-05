@@ -1,8 +1,3 @@
-
-``` Python
-var myVar = "Hello, world!";
-a=90;
-b=90;
-c=a+b;
-print(c)
-```
+- [ ] WAKE UP EARLY
+- [ ] EXERCISE FOR AN HOUR
+- [ ] DONT DELAY THE TASK FINISH EARLY ON YOURSELF
