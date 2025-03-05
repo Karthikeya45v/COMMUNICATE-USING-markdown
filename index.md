@@ -1,2 +1,8 @@
 
-![image of Percy jackson](https://tv-tea.com/2022/05/04/justice-for-percy-jackson/)
+``` Python
+var myVar = "Hello, world!";
+a=90;
+b=90;
+c=a+b;
+print(c)
+```
